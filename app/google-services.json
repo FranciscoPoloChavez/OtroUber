@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86352285036",
+    "firebase_url": "https://otrouber-36bd5.firebaseio.com",
+    "project_id": "otrouber-36bd5",
+    "storage_bucket": "otrouber-36bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86352285036:android:90fe1991b05c8eb561f749",
+        "android_client_info": {
+          "package_name": "com.example.otrouber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86352285036-1kouvrqs70djd3b1rkotvkkp9judvhpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otrouber",
+            "certificate_hash": "4db5857a96c3d3daf3e5eaad68ce86783fb9875f"
+          }
+        },
+        {
+          "client_id": "86352285036-5nt6rlt5gpblm29kt6utl3u44d1b4fbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrA-8WfUBb0Bgpc5HeLLineaO_6lxKoyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86352285036-5nt6rlt5gpblm29kt6utl3u44d1b4fbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
